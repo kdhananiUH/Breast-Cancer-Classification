@@ -1,4 +1,4 @@
-# Breast Cancer Classification
+# Breast Cancer Classification :cancer:
 
 #### This dataset is about Breast Cancer classification. Cancer is categorized into two categories: Malignant (M) and Benign (B)
 
